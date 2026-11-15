@@ -1,0 +1,3 @@
+Project: ShopEasy Lite
+Status: Feature Branch Version
+Owner: Anshak Soni
